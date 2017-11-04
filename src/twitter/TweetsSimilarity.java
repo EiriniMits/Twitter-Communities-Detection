@@ -24,6 +24,10 @@ import java.util.HashSet;
 import java.util.LinkedHashMap;
 import java.util.Set;
 
+/**
+ * @author Eirini Mitsopoulou
+ */
+
 public class TweetsSimilarity {
 
     /**

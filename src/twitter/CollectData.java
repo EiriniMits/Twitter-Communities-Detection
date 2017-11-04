@@ -21,6 +21,10 @@ import twitter4j.TwitterStreamFactory;
 import twitter4j.UserMentionEntity;
 import twitter4j.conf.ConfigurationBuilder;
 
+/**
+ * @author Eirini Mitsopoulou
+ */
+
 public class CollectData {
 
     private ConfigurationBuilder cb;
